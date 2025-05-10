@@ -30,17 +30,9 @@ With a core focus on responsive controls, fluid movement, and scalable gameplay 
 📦 Installation
 💡 Coming soon: full setup instructions with video guides and starter assets.
 
-Clone the repo and start blasting:
-
-bash
-Αντιγραφή
-Επεξεργασία
-git clone https://github.com/your-username/bulletrush.git
-cd bulletrush
 # Follow the engine-specific instructions to run the game
 🤝 Contribute
 Pull requests are welcome! Found a bug or have an idea for a new feature? Open an issue or fork the project and start building. Whether it's code, level design, or artwork — your contributions help make BulletRush better for everyone.
 
 📜 License
 MIT License – free to use, modify, and share. Just give credit and keep the community awesome. 🙌
-
